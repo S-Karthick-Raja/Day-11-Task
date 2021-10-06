@@ -1,0 +1,11 @@
+td, th{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.Table{
+    border-collapse: collapse;
+}
+p{
+    margin-inline: 14%;
+}

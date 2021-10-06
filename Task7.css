@@ -1,0 +1,74 @@
+h2{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+fieldset{
+    width: 40%;
+}
+.Align > p{
+    border-top: 1px solid black;
+}
+
+.span{
+    border-top: 1px solid black;
+}
+.Fname{
+    border-top: 2px solid #2f2f2f;
+    content: '';
+    width: 290px;
+    height: 40px;
+    align-content: right; 
+    display: block;
+    float: left;
+}
+.Lname{
+    border-top: 2px solid #2f2f2f;
+    content: '';
+    width: 290px;
+    height: 40px;
+    align-content: right; 
+    display: block;
+    float: right;
+}
+.Address{
+    border-top: 2px solid #2f2f2f;
+    content: '';
+    width: 600px;
+    height: 40px;
+    align-content: right; 
+    display: block;
+    float: left;
+}
+.City{
+    border-top: 2px solid #2f2f2f;
+    content: '';
+    width: 190px;
+    height: 30px;
+    align-content: left; 
+    display: block;
+    float: left;
+    margin: 5px;
+}
+.Zip{
+    border-top: 2px solid #2f2f2f;
+    content: '';
+    width: 190px;
+    height: 45px;
+    align-content: right; 
+    display: block;
+    float: right;
+    margin: 4px;
+}
+.State{
+    border-top: 2px solid #2f2f2f;
+    content: '';
+    width: 190px;
+    height: 40px;
+    align-content: center;
+    display: inline-flex;
+    float:inherit ;
+    justify-content: flex-start;
+    margin: 4px;
+}

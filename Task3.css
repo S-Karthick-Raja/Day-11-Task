@@ -1,0 +1,16 @@
+.Allign{
+    padding: 10px;
+    margin: 0px;
+    height: 50%;
+}
+.Button{
+    padding: 10px;
+    background-size: 10px;
+    margin: 0px;
+    height: 50%;
+}
+fieldset{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 100%;
+}
